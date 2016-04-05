@@ -1,0 +1,50 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#ke ul li{
+	list-style:none;
+	float:left;
+    padding: 14px 43px;
+}
+
+#ke ul li:first-child{
+	    padding-left: 149px;
+}
+
+#ke ul li a:hover{
+	color: red;
+}
+
+#ke ul li a{
+	font-size: 20px;
+	text-decoration: none;
+	color: #000;
+}
+p{
+	clear:both;
+
+}
+
+#center{
+width:940px;
+margin: 0px auto;
+}
+#a{
+	margin-left: 329px;
+}
+
+#ke{
+	width: 100%;
+	border-bottom: 5px solid #000;
+	min-height: 60px;
+}
+
+#giua{
+	text-align: center;
+	padding: 20px;
+}
+
+#gua>img:first-child{
+	margin-left: 75px;
+}
